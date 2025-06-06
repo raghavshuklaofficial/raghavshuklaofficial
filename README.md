@@ -12,7 +12,7 @@
 ## 🧑‍💻 Whoami
 > **"Bending bits to my will, one kernel at a time."**
 
-I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at **Graphic Era University**, and a passionate:
+I’m **Raghav Shukla**, a pre-final-year 🎓 *B.Tech Computer Science* student at **Graphic Era University**, and a passionate:
 - 🛠️ **Systems Programmer** (Think bootloaders, memory allocators & OS kernels)
 - 🧠 **AI/ML Developer** (From NLP bots to real-time vision)
 - 📦 **Compiler Architect** (Custom WH-style compiler that generates NASM assembly)
