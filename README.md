@@ -17,7 +17,7 @@ I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at 
 - 🧠 **AI/ML Developer** (From NLP bots to real-time vision)
 - 📦 **Compiler Architect** (Custom WH-style compiler that generates NASM assembly)
 
-🛰️ I believe in building **from scratch**, solving real problems, and obsessing over performance, scalability, and optimization.
+🛰️ I believe in solving real problems, and obsessing over performance, scalability, and optimization.
 
 ---
 
