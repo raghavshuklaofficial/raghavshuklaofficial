@@ -50,7 +50,7 @@ I’m **Raghav Shukla**, a pre-final-year 🎓 *B.Tech Computer Science* student
 
 ## 🏆 Achievements & Leadership
 
-- 👨‍💼 **Team Leader** — OS dev under PBL at university.
+- 👨‍💼 **Team Leader** — dev under PBL at university.
 - 💯 **100/100 in Science** (Class 10 CBSE Top 0.1% MERIT HOLDER NATIONAL LEVEL)
 - 🧠 **Built 6+ full-fledged projects** across domains like OS, ML, and Compiler Design.
 - 🏅 Certified in **AI & Azure Fundamentals** (Microsoft + IIT Roorkee ArIES + Languify)
