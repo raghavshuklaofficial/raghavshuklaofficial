@@ -19,8 +19,6 @@ I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at 
 
 🛰️ I believe in solving real problems, and obsessing over performance, scalability, and optimization.
 
----
-
 ## 📌 Highlight Projects
 
 | 🛠️ **Project** | 🧠 **Tech Stack** | 🚀 **What Makes it Cool** |
@@ -28,6 +26,7 @@ I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at 
 | **GraphOS** 🧬 | `C`, `x86`, `QEMU`, `Makefile` | 32-bit **bare-metal OS** with shell, heap memory mgmt, SHA-224/256 |
 | **Custom Compiler** 🔧 | `C`, `NASM`, `x86-64` | Lexical → AST → Assembly. Optimized WH-language compiler |
 | **Chatbot AI** 💬 | `TensorFlow`, `TFLearn`, `NLP` | NLP-based chatbot with tokenization, stemming, and neural net |
+| **Orange/Grapefruit Classifier** 🍊 | `scikit-learn`, `pandas`, `seaborn` | End-to-end ML analysis: cross-validation, cost-sensitive optimization, bias-variance tradeoff |
 | **Face Recognition** 👁️ | `OpenCV`, `Dlib`, `NumPy` | Real-time detection using ResNet + Euclidean face matching |
 | **Big Integer Library** 📐 | `C` | Built custom high-precision arithmetic from scratch |
 | **Library System GUI** 📚 | `C++`, `Qt`, `SQLite` | Admin-user GUI app with full CRUD and lightweight DB backend |
@@ -42,11 +41,9 @@ I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at 
 |------|--------------|
 | **Languages** 🧾 | `C`, `C++`, `Python`, `Assembly`, `Java`, `JavaScript`, `HTML/CSS` |
 | **OS Dev** 🧰 | `QEMU`, `Makefile`, `x86`, `NASM`, `Bootloaders`, `Memory Mgmt` |
-| **AI / ML** 🤖 | `TensorFlow`, `scikit-learn`, `TFLearn`, `OpenCV`, `Dlib`, `NLP` |
-| **Tools** 🛠️ | `Git`, `GitHub`, `Qt`, `SQLite`, `VS Code`, `Linux` |
-| **Cloud** ☁️ | `Microsoft Azure (Certified)` |
-
----
+| **AI / ML** 🤖 | `TensorFlow`, `scikit-learn`, `pandas`, `seaborn`, `TFLearn`, `OpenCV`, `Dlib`, `NLP`, `joblib` |
+| **Tools** 🛠️ | `Git`, `GitHub`, `Qt`, `SQLite`, `VS Code`, `Linux`, `Jupyter Notebook` |
+| **Cloud** ☁️ | `Microsoft Azure
 
 ## 🏆 Achievements & Leadership
 
