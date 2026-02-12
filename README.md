@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Compiler%20Whiz-%23E44D26?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/OS%20Dev-%2300ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GraphOS%20Creator-%23563D7C?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NexusCoreOS%20Creator-%23563D7C?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
 
 ---
@@ -23,8 +23,8 @@ I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at 
 
 | 🛠️ **Project** | 🧠 **Tech Stack** | 🚀 **What Makes it Cool** |
 |----------------|------------------|----------------------------|
-| **GraphOS** 🧬 | `C`, `x86`, `QEMU`, `Makefile` | 32-bit **bare-metal OS** with shell, heap memory mgmt, SHA-224/256 |
-| **Custom Compiler** 🔧 | `C`, `NASM`, `x86-64` | Lexical → AST → Assembly. Optimized WH-language compiler |
+| **NexusCoreOS** 🧬 | `C`, `x86`, `QEMU`, `Makefile` | 32-bit **bare-metal OS** with shell, heap memory mgmt, SHA-224/256 |
+| **Nova Compiler** 🔧 | `C`, `NASM`, `x86-64` | Lexical → AST → Assembly. Optimized WH-language compiler |
 | **Chatbot AI** 💬 | `TensorFlow`, `TFLearn`, `NLP` | NLP-based chatbot with tokenization, stemming, and neural net |
 | **Orange/Grapefruit Classifier** 🍊 | `scikit-learn`, `pandas`, `seaborn` | End-to-end ML analysis: cross-validation, cost-sensitive optimization, bias-variance tradeoff |
 | **Face Recognition** 👁️ | `OpenCV`, `Dlib`, `NumPy` | Real-time detection using ResNet + Euclidean face matching |
