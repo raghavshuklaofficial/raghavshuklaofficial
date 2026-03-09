@@ -1,81 +1,89 @@
-<h1 align="center">🚀 Raghav Shukla — Code. Compile. Conquer. 🧠</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Compiler%20Whiz-%23E44D26?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OS%20Dev-%2300ADD8?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NexusCoreOS%20Creator-%23563D7C?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-</p>
+# Raghav Shukla
 
----
+**Software Engineer** · Backend & Systems · C/C++ · Python · Linux
 
-## 🧑‍💻 Whoami
-> **"Bending bits to my will, one kernel at a time."**
+I build things that run close to the metal — OS kernels, compilers, production backend systems.  
+Currently finishing my B.Tech in Computer Science at Graphic Era University (2022–2026).
 
-I’m **Raghav Shukla**, a final-year 🎓 *B.Tech Computer Science* student at **Graphic Era University**, and a passionate:
-- 🛠️ **Systems Programmer** (Think bootloaders, memory allocators & OS kernels)
-- 🧠 **AI/ML Developer** (From NLP bots to real-time vision)
-- 📦 **Compiler Architect** (Custom WH-style compiler that generates NASM assembly)
+[![Website](https://img.shields.io/badge/-raghavshuklaofficial.github.io-222?style=flat&logo=googlechrome&logoColor=white)](https://raghavshuklaofficial.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-raghavshuklaofficial-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavshuklaofficial/)
+[![GitHub](https://img.shields.io/badge/-raghavshuklaofficial-181717?style=flat&logo=github&logoColor=white)](https://github.com/raghavshuklaofficial)
 
-🛰️ I believe in solving real problems, and obsessing over performance, scalability, and optimization.
-
-## 📌 Highlight Projects
-
-| 🛠️ **Project** | 🧠 **Tech Stack** | 🚀 **What Makes it Cool** |
-|----------------|------------------|----------------------------|
-| **NexusCoreOS** 🧬 | `C`, `x86`, `QEMU`, `Makefile` | 32-bit **bare-metal OS** with shell, heap memory mgmt, SHA-224/256 |
-| **Nova Compiler** 🔧 | `C`, `NASM`, `x86-64` | Lexical → AST → Assembly. Optimized WH-language compiler |
-| **Chatbot AI** 💬 | `TensorFlow`, `TFLearn`, `NLP` | NLP-based chatbot with tokenization, stemming, and neural net |
-| **Orange/Grapefruit Classifier** 🍊 | `scikit-learn`, `pandas`, `seaborn` | End-to-end ML analysis: cross-validation, cost-sensitive optimization, bias-variance tradeoff |
-| **Face Recognition** 👁️ | `OpenCV`, `Dlib`, `NumPy` | Real-time detection using ResNet + Euclidean face matching |
-| **Big Integer Library** 📐 | `C` | Built custom high-precision arithmetic from scratch |
-| **Library System GUI** 📚 | `C++`, `Qt`, `SQLite` | Admin-user GUI app with full CRUD and lightweight DB backend |
-
-🔗 Explore them in the [**Repositories**](https://github.com/raghavshuklaofficial?tab=repositories) section!
+</div>
 
 ---
 
-## 🧠 Skills at a Glance
+### About me
 
-| Area | Tools & Tech |
-|------|--------------|
-| **Languages** 🧾 | `C`, `C++`, `Python`, `Assembly`, `Java`, `JavaScript`, `HTML/CSS` |
-| **OS Dev** 🧰 | `QEMU`, `Makefile`, `x86`, `NASM`, `Bootloaders`, `Memory Mgmt` |
-| **AI / ML** 🤖 | `TensorFlow`, `scikit-learn`, `pandas`, `seaborn`, `TFLearn`, `OpenCV`, `Dlib`, `NLP`, `joblib` |
-| **Tools** 🛠️ | `Git`, `GitHub`, `Qt`, `SQLite`, `VS Code`, `Linux`, `Jupyter Notebook` |
-| **Cloud** ☁️ | `Microsoft Azure
+I'm a systems-focused engineer who genuinely enjoys working at the lower levels of the stack. I've written a bootloader from scratch, built a compiler that targets x86-64 NASM, shipped a face recognition platform handling 100K+ embeddings, and I care deeply about writing code that's maintainable, well-tested, and actually ships.
 
-## 🏆 Achievements & Leadership
-
-- 👨‍💼 **Team Leader** — dev under PBL at university.
-- 💯 **100/100 in Science** (Class 10 CBSE Top 0.1% MERIT HOLDER NATIONAL LEVEL)
-- 🧠 **Built 6+ full-fledged projects** across domains like OS, ML, and Compiler Design.
-- 🏅 Certified in **AI & Azure Fundamentals** (Microsoft + IIT Roorkee ArIES + Languify)
+When I'm not writing kernel code at odd hours, I'm usually exploring NLP pipelines, tweaking Docker setups, or reading about compiler optimization passes.
 
 ---
 
-## 📬 Let's Connect
+### What I've built
 
-<p align="center">
-  <a href="mailto:raghavshuklageu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/raghavshuklaofficial/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/raghavshuklaofficial"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+**NexusCore OS** — *C, x86 Assembly (NASM), Makefile, QEMU, GRUB*  
+A bare-metal 32-bit operating system, engineered from scratch. Multiboot-compliant GRUB bootloader that drops into Ring 0 protected mode. Runs on real x86 hardware and QEMU with sub-second boot time. Zero external dependencies.
 
----
+**Nova Compiler** — *C, x86-64 Assembly, NASM, GNU Make, Linux ABI*  
+A complete multi-phase compiler written in pure C11, translating Nova to native x86-64 NASM assembly. Spans lexical analysis through code generation, using an object-oriented modular design across 15,000 lines in 26 modules. Targets the Linux System V ABI.
 
-## 📈 GitHub Stats
+**Cortexia** — *Python, FastAPI, React, PostgreSQL, pgvector, Redis, Docker*  
+A production-grade, microservices-oriented face recognition platform. 6-stage trust pipeline with RetinaFace (99.4% detection), ArcFace 512-d embeddings (99.83% LFW accuracy), 4-method anti-spoofing ensemble, pgvector sub-millisecond search on 100K+ embeddings, and Platt-calibrated confidence scoring.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavshuklaofficial&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+**Nexus Conversational AI** — *Python, FastAPI, Sentence-BERT, RoBERTa, Docker*  
+An OOP-driven, enterprise-grade conversational AI engine built on a transformer NLU pipeline. Sentence-BERT intent classification, BERT-NER + regex entity extraction, RoBERTa sentiment analysis, and a multi-turn dialogue manager with entity memory and context-aware response generation — achieving sub-100ms inference latency.
 
 ---
 
-## 🧩 Motto
+### Tech stack
 
-> _“If you're not writing your own OS at 2AM, are you even coding?”_
+```
+Languages        C · C++ · Python · JavaScript · TypeScript · Java
+AI / NLP         PyTorch · Sentence-BERT · RoBERTa · InsightFace (ArcFace/RetinaFace) · HDBSCAN
+Frontend         React · TypeScript · TailwindCSS · HTML · CSS
+Backend & DB     FastAPI · Django · Node.js · Celery · Pydantic · SQLAlchemy · PostgreSQL · pgvector · Redis · MongoDB
+DevOps & Cloud   Docker · Docker Compose · NGINX · GitHub Actions · Prometheus · AWS · Azure
+Tools            Git · Makefile · QEMU · NASM · GNU Make
+```
 
 ---
+
+### Certifications
+
+- **Microsoft Certified: Azure Fundamentals** — Credential ID I641-3318 (March 2023)
+- **Artificial Intelligence by ArIES IIT Roorkee** — Credential ID AIITR-230222915 (February 2023)
+
+---
+
+### Leadership
+
+**Team Leader — Project-Based Learning (PBL) Program** at Graphic Era University  
+Led a semester-long Agile initiative — split tasks clearly, kept the team unblocked, ran weekly demos, conducted regular code reviews, and set consistent implementation standards that noticeably improved overall code quality.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavshuklaofficial&theme=default&hide_border=true&background=00000000&ring=24292f&fire=e36209&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&langs_count=8" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*If it compiles, ship it. If it doesn't, read the spec again.*
+
+</div>
 
