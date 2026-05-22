@@ -34,8 +34,10 @@ A complete multi-phase compiler written in pure C11, translating Nova to native 
 **Cortexia** — *Python, FastAPI, React, PostgreSQL, pgvector, Redis, Docker*  
 A production-grade, microservices-oriented face recognition platform. 6-stage trust pipeline with RetinaFace (99.4% detection), ArcFace 512-d embeddings (99.83% LFW accuracy), 4-method anti-spoofing ensemble, pgvector sub-millisecond search on 100K+ embeddings, and Platt-calibrated confidence scoring.
 
-**Nexus Conversational AI** — *Python, FastAPI, Sentence-BERT, RoBERTa, Docker*  
-An OOP-driven, enterprise-grade conversational AI engine built on a transformer NLU pipeline. Sentence-BERT intent classification, BERT-NER + regex entity extraction, RoBERTa sentiment analysis, and a multi-turn dialogue manager with entity memory and context-aware response generation — achieving sub-100ms inference latency.
+Nexus Conversational AI Platform — Python, FastAPI, Redis, Kafka, FAISS, HuggingFace LLMs
+Architected a production-grade conversational AI platform using Hexagonal Architecture (Ports & Adapters), decoupling the domain logic from scalable infrastructure like Redis semantic caching and Kafka event streaming.
+Engineered a hybrid routing engine combining a fast deterministic NLU pipeline (Sentence-BERT, RoBERTa) with a dynamic Local LLM fallback (Qwen) using precise ChatML token formatting.
+Implemented an async Retrieval-Augmented Generation (RAG) pipeline with background document chunking, FAISS vector embeddings, and cryptographically stable context-memory tracking.
 
 ---
 
