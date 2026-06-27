@@ -1,91 +1,217 @@
+```markdown
 <div align="center">
 
-# Raghav Shukla
+# Hi 👋 I'm Raghav Shukla
 
-**Software Engineer** · Backend & Systems · C/C++ · Python · Linux
+### Software Engineer • AI Engineer • Backend Engineer • Systems Programmer
 
-I build things that run close to the metal — OS kernels, compilers, production backend systems.  
-Currently finishing my B.Tech in Computer Science at Graphic Era University (2022–2026).
+Building production-grade AI systems, backend infrastructure, operating systems, and compiler toolchains.
 
-[![Website](https://img.shields.io/badge/-raghavshuklaofficial.github.io-222?style=flat&logo=googlechrome&logoColor=white)](https://raghavshuklaofficial.github.io/)
-[![LinkedIn](https://img.shields.io/badge/-raghavshuklaofficial-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavshuklaofficial/)
-[![GitHub](https://img.shields.io/badge/-raghavshuklaofficial-181717?style=flat&logo=github&logoColor=white)](https://github.com/raghavshuklaofficial)
+🎓 B.Tech Computer Science (2022–2026)  
+📍 India  
+🌐 https://raghavshuklaofficial.github.io
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raghavshuklaofficial.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavshuklaofficial)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavshuklaofficial)
+
 
 </div>
 
 ---
 
-### About me
+# 🚀 About Me
 
-I'm a systems-focused engineer who genuinely enjoys working at the lower levels of the stack. I've written a bootloader from scratch, built a compiler that targets x86-64 NASM, shipped a face recognition platform handling 100K+ embeddings, and I care deeply about writing code that's maintainable, well-tested, and actually ships.
+I'm a Software Engineer passionate about building reliable software from the hardware layer to modern AI applications.
 
-When I'm not writing kernel code at odd hours, I'm usually exploring NLP pipelines, tweaking Docker setups, or reading about compiler optimization passes.
+My interests span:
 
----
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ⚡ Backend & Distributed Systems
+- 🖥️ Operating Systems
+- 🔨 Compiler Engineering
+- ☁️ Cloud Infrastructure
+- 🐳 DevOps & Containerization
 
-### What I've built
-
-**NexusCore OS** — *C, x86 Assembly (NASM), Makefile, QEMU, GRUB*  
-A bare-metal 32-bit operating system, engineered from scratch. Multiboot-compliant GRUB bootloader that drops into Ring 0 protected mode. Runs on real x86 hardware and QEMU with sub-second boot time. Zero external dependencies.
-
-**Nova Compiler** — *C, x86-64 Assembly, NASM, GNU Make, Linux ABI*  
-A complete multi-phase compiler written in pure C11, translating Nova to native x86-64 NASM assembly. Spans lexical analysis through code generation, using an object-oriented modular design across 15,000 lines in 26 modules. Targets the Linux System V ABI.
-
-**Cortexia** — *Python, FastAPI, React, PostgreSQL, pgvector, Redis, Docker*  
-A production-grade, microservices-oriented face recognition platform. 6-stage trust pipeline with RetinaFace (99.4% detection), ArcFace 512-d embeddings (99.83% LFW accuracy), 4-method anti-spoofing ensemble, pgvector sub-millisecond search on 100K+ embeddings, and Platt-calibrated confidence scoring.
-
-Nexus Conversational AI Platform — Python, FastAPI, Redis, Kafka, FAISS, HuggingFace LLMs
-Architected a production-grade conversational AI platform using Hexagonal Architecture (Ports & Adapters), decoupling the domain logic from scalable infrastructure like Redis semantic caching and Kafka event streaming.
-Engineered a hybrid routing engine combining a fast deterministic NLU pipeline (Sentence-BERT, RoBERTa) with a dynamic Local LLM fallback (Qwen) using precise ChatML token formatting.
-Implemented an async Retrieval-Augmented Generation (RAG) pipeline with background document chunking, FAISS vector embeddings, and cryptographically stable context-memory tracking.
+I enjoy solving complex engineering problems while designing software that is scalable, maintainable, and production-ready.
 
 ---
 
-### Tech stack
+# 💼 Current Experience
 
+### Machine Learning Intern
+**Unified Mentor Pvt. Ltd.**
+
+- Machine Learning
+- Predictive Analytics
+- Supply Chain Analytics
+- Feature Engineering
+- Model Development
+
+---
+
+### Software Engineer – AI Trainer
+**DataAnnotation**
+
+- Large Language Models (LLMs)
+- AI Evaluation
+- Code Reasoning
+- Prompt Engineering
+- Software Engineering
+- Technical Review
+
+---
+
+# ⭐ Featured Projects
+
+## 🧠 Nexus Conversational AI
+
+Production-grade conversational AI platform featuring:
+
+- FastAPI
+- WebSockets
+- Retrieval-Augmented Generation (RAG)
+- FAISS & Qdrant
+- HuggingFace Transformers
+- Redis
+- Kafka
+- Docker
+- Prometheus & Grafana
+
+---
+
+## 👤 Cortexia
+
+AI-powered face recognition platform built with:
+
+- FastAPI
+- React
+- PostgreSQL
+- pgvector
+- Redis
+- Docker
+- ArcFace
+- RetinaFace
+
+Supports large-scale facial embedding search and identity verification.
+
+---
+
+## 🖥️ NexusCore OS
+
+A 32-bit x86 operating system written in C and Assembly.
+
+Features:
+
+- Multiboot (GRUB)
+- Protected Mode
+- Memory Management
+- Low-level Kernel Development
+- QEMU Support
+
+---
+
+## 🔨 Nova Compiler
+
+A compiler written entirely in C11.
+
+Highlights:
+
+- Lexical Analysis
+- Parsing
+- Semantic Analysis
+- Abstract Syntax Tree
+- x86-64 Code Generation
+- Linux System V ABI
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
+
+---
+
+### AI / Machine Learning
+
+PyTorch • Transformers • RAG • Sentence-BERT • RoBERTa • FAISS • Qdrant • HDBSCAN • ArcFace • RetinaFace
+
+---
+
+### Backend
+
+FastAPI • Django • PostgreSQL • Redis • SQLAlchemy • Celery • Node.js
+
+---
+
+### DevOps
+
+Docker • Docker Compose • GitHub Actions • NGINX • Prometheus • Grafana • AWS • Azure
+
+---
+
+### Tools
+
+Git • Linux • Makefile • NASM • QEMU
+
+---
+
+# 📄 Publications
+
+**GeoGraph-MP**
+
+Hybrid Graph Neural Network and MediaPipe Framework for Real-Time Missing Person Identification on Edge Hardware.
+
+🎤 Accepted for Oral Presentation
+
+IEEE ICISC 2026
+
+---
+
+# 🏆 Certifications
+
+- Microsoft Certified: Azure Fundamentals
+- Artificial Intelligence – ArIES IIT Roorkee
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&rank_icon=github&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavshuklaofficial&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 https://raghavshuklaofficial.github.io
+- 💼 https://linkedin.com/in/raghavshuklaofficial
+- 💻 https://github.com/raghavshuklaofficial
+
+
+---
+
+<div align="center">
+
+### "Great software is built by engineers who never stop learning."
+
+⭐ Thanks for visiting my profile!
+
+</div>
 ```
-Languages        C · C++ · Python · JavaScript · TypeScript · Java
-AI / NLP         PyTorch · Sentence-BERT · RoBERTa · InsightFace (ArcFace/RetinaFace) · HDBSCAN
-Frontend         React · TypeScript · TailwindCSS · HTML · CSS
-Backend & DB     FastAPI · Django · Node.js · Celery · Pydantic · SQLAlchemy · PostgreSQL · pgvector · Redis · MongoDB
-DevOps & Cloud   Docker · Docker Compose · NGINX · GitHub Actions · Prometheus · AWS · Azure
-Tools            Git · Makefile · QEMU · NASM · GNU Make
-```
-
----
-
-### Certifications
-
-- **Microsoft Certified: Azure Fundamentals** — Credential ID I641-3318 (March 2023)
-- **Artificial Intelligence by ArIES IIT Roorkee** — Credential ID AIITR-230222915 (February 2023)
-
----
-
-### Leadership
-
-**Team Leader — Project-Based Learning (PBL) Program** at Graphic Era University  
-Led a semester-long Agile initiative — split tasks clearly, kept the team unblocked, ran weekly demos, conducted regular code reviews, and set consistent implementation standards that noticeably improved overall code quality.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavshuklaofficial&theme=default&hide_border=true&background=00000000&ring=24292f&fire=e36209&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&langs_count=8" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
-*If it compiles, ship it. If it doesn't, read the spec again.*
-
-</div>
-
