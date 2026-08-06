@@ -3,8 +3,8 @@
 # Raghav Shukla
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E8552E&center=true&vCenter=true&width=780&lines=Software+Engineer+%E2%80%94+AI+Trainer;LLM+Evaluation+%7C+RAG+%7C+Backend;Compiler+Engineering+%7C+Operating+Systems"
-  alt="Animated introduction showing Raghav Shukla's engineering focus"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E8552E&center=true&vCenter=true&width=850&lines=Software+Engineer+%E2%80%94+AI+Trainer;LLM+Evaluation+%7C+RAG+%7C+Backend+Systems;Compiler+Engineering+%7C+Operating+Systems"
+  alt="Raghav Shukla - Software Engineer, AI Trainer, and Machine Learning Engineer"
 />
 
 <br>
@@ -19,9 +19,25 @@ I build **AI evaluation benchmarks, RAG systems, scalable backend services, comp
 
 <br>
 
-`Software Engineer — AI Trainer @ DataAnnotation`  
-`B.Tech CSE · Graduated May 2026`  
-`IEEE ICISC 2026 · Paper Accepted`
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>Current Role</strong><br>
+Software Engineer - AI Trainer<br>
+<sub>DataAnnotation</sub>
+</td>
+<td align="center" width="33%">
+<strong>Education</strong><br>
+B.Tech in Computer Science & Engineering<br>
+<sub>Graduated May 2026</sub>
+</td>
+<td align="center" width="33%">
+<strong>Research</strong><br>
+IEEE ICISC 2026<br>
+<sub>Paper Accepted</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -29,28 +45,60 @@ I build **AI evaluation benchmarks, RAG systems, scalable backend services, comp
 
 ## `> whoami`
 
-I'm a **Software Engineer and AI Trainer** working across AI evaluation, machine learning, backend engineering, and systems programming.
-
-At **DataAnnotation**, I author terminal-based software-engineering benchmarks, evaluate frontier-model responses, review task quality, and design adversarial tasks that expose model limitations.
-
-Alongside AI evaluation, I build production-oriented systems using **Python, FastAPI, PostgreSQL, Redis, Docker, vector databases, C, and C++**.
-
-```text
-focus/
-├── llm-evaluation
-├── benchmark-authoring
-├── retrieval-augmented-generation
-├── backend-and-distributed-systems
-├── compiler-engineering
-└── operating-systems
+```python
+raghav = {
+    "role": "Software Engineer - AI Trainer",
+    "focus": [
+        "LLM evaluation and benchmark authoring",
+        "retrieval-augmented generation",
+        "backend and distributed systems",
+        "compiler engineering",
+        "operating systems",
+    ],
+    "engineering_values": [
+        "correctness",
+        "reproducibility",
+        "maintainability",
+        "clear technical reasoning",
+    ],
+}
 ```
+
+I work across **AI evaluation, machine learning, backend engineering, and systems programming**. At DataAnnotation, I author terminal-based software-engineering benchmarks, evaluate frontier-model responses, review task quality, and design adversarial tasks that expose model limitations.
+
+Alongside AI evaluation, I build production-oriented systems with **Python, FastAPI, PostgreSQL, Redis, Docker, vector databases, C, and C++**.
+
+---
+
+## `> engineering_snapshot`
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>15K+</h3>
+<sub>Lines of compiler code</sub>
+</td>
+<td align="center" width="25%">
+<h3>26</h3>
+<sub>Compiler modules</sub>
+</td>
+<td align="center" width="25%">
+<h3>32-bit</h3>
+<sub>Bare-metal OS kernel</sub>
+</td>
+<td align="center" width="25%">
+<h3>IEEE</h3>
+<sub>ICISC 2026 acceptance</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## `> experience`
 
-### Software Engineer — AI Trainer
-**DataAnnotation** · Remote · **June 2026 – Present**
+### Software Engineer - AI Trainer
+**DataAnnotation** · Remote · **June 2026 - Present**
 
 - Author reproducible **terminal-based software-engineering benchmark tasks** for frontier AI models.
 - Define execution environments, requirements, expected outcomes, and objective validation criteria.
@@ -60,7 +108,7 @@ focus/
 - Contribute to **AI training, response ranking, benchmark development, and model-quality evaluation** workflows.
 
 ### Machine Learning Intern
-**Unified Mentor Pvt. Ltd.** · Remote · **May 2026 – June 2026**
+**Unified Mentor Pvt. Ltd.** · Remote · **May 2026 - June 2026**
 
 - Developed machine-learning solutions for supply-chain analytics, customer segmentation, and operational optimization.
 - Performed data preprocessing, exploratory analysis, feature engineering, predictive modeling, and model evaluation.
@@ -110,7 +158,6 @@ A face-recognition web platform with vector similarity search, anti-spoofing che
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -186,7 +233,7 @@ A bare-metal 32-bit operating-system kernel built in C and x86 Assembly.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Also worked with:** Scikit-Learn, Sentence-BERT, RoBERTa, RAG, FAISS, InsightFace, Django, Node.js, pgvector, MongoDB, NGINX, Prometheus, Grafana, AWS, Azure, QEMU, NASM, and GNU Make.
+**Additional technologies:** Scikit-Learn, Sentence-BERT, RoBERTa, RAG, FAISS, InsightFace, Django, Node.js, pgvector, MongoDB, NGINX, Prometheus, Grafana, AWS, Azure, QEMU, NASM, and GNU Make.
 
 ---
 
@@ -206,14 +253,14 @@ A bare-metal 32-bit operating-system kernel built in C and x86 Assembly.
 
 **Graphic Era University, Dehradun**  
 B.Tech in Computer Science & Engineering  
-**June 2022 – May 2026** · CGPA: **8.08/10**
+**June 2022 - May 2026** · CGPA: **8.08/10**
 
 ---
 
 ## `> certifications`
 
-- **Microsoft Certified: Azure Fundamentals** — March 2023
-- **Artificial Intelligence by ArIES IIT Roorkee** — February 2023
+- **Microsoft Certified: Azure Fundamentals** - March 2023
+- **Artificial Intelligence by ArIES IIT Roorkee** - February 2023
 
 ---
 
@@ -221,9 +268,58 @@ B.Tech in Computer Science & Engineering
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&title_color=e8552e&icon_color=e8552e&text_color=8a8a8a" alt="Raghav Shukla's GitHub statistics">
+<a href="https://github.com/raghavshuklaofficial">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=github_dark&title_color=E8552E&icon_color=E8552E"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=default&title_color=E8552E&icon_color=E8552E"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavshuklaofficial&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent&title_color=E8552E&icon_color=E8552E" alt="Raghav Shukla's GitHub statistics" />
+</picture>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&hide_border=true&theme=transparent&title_color=e8552e&text_color=8a8a8a" alt="Raghav Shukla's most-used GitHub languages">
+<a href="https://github.com/raghavshuklaofficial">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark&title_color=E8552E"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default&title_color=E8552E"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavshuklaofficial&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&title_color=E8552E" alt="Raghav Shukla's most-used public repository languages" />
+</picture>
+</a>
+
+</div>
+
+> The language card reflects code detected in public repositories; it is not a proficiency ranking.
+
+---
+
+## `> contribution_activity`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/raghavshuklaofficial/raghavshuklaofficial/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://raw.githubusercontent.com/raghavshuklaofficial/raghavshuklaofficial/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/raghavshuklaofficial/raghavshuklaofficial/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution graph"
+  />
+</picture>
 
 </div>
 
@@ -233,7 +329,7 @@ B.Tech in Computer Science & Engineering
 
 ## `> connect`
 
-I'm interested in challenging work across **AI evaluation, machine learning, backend systems, compiler engineering, and systems software**.
+Open to challenging work across **AI evaluation, machine learning, backend systems, compiler engineering, and systems software**.
 
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-E8552E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raghavshuklaofficial.github.io)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavshuklaofficial/)
