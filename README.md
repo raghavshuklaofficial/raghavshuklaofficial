@@ -8,7 +8,6 @@ I build **AI evaluation benchmarks, RAG systems, scalable backend services, comp
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raghavshuklaofficial.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavshuklaofficial/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavshuklaofficial@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavshuklaofficial)
 
 <br>
@@ -241,7 +240,6 @@ I'm interested in challenging work across **AI evaluation, machine learning, bac
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-e8552e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raghavshuklaofficial.github.io)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavshuklaofficial/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavshuklaofficial@outlook.com)
 
 <br>
 
